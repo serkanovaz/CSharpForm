@@ -2,7 +2,7 @@
  .NetFramework Masaüstü Uygulama
  
 ## Özet
- Staj sürecinde C#/.NetFramework ve veri tabanı işlemlerinin öğrenilmesi için geliştirilmiş temel masaüstü uygulama projesidir. Uygulamanın bilgisayar ortamında kurulumu için setup.exe oluşturulmuştur.
+ Staj sürecinde C#/.NetFramework ve veri tabanı işlemlerinin öğrenilmesi için geliştirilmiş temel masaüstü uygulama projesidir. Uygulamanın bilgisayar ortamında kurulumu için setup.exe oluşturulmuştur. Banka Masaüstü Uygulaması başlığında kurulum dosyalarına erişebilirsiniz.
 
 ## Kullanılan Teknolojiler
  * .NetFramework 4.6
@@ -15,6 +15,7 @@
  * Şifre İşlemleri
  * Sistem Giriş Takip
  * Hesap Makinesi Özelliği
+ * Geliştirilme Tarih:2017
  
  
  
