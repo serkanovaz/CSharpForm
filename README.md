@@ -1,11 +1,11 @@
 # TB Bankacılık
- .NetFramework Masaüstü Uygulama
+ .NET Framework Masaüstü Uygulama
  
 ## Özet
-Staj sürecinde C#/.NetFramework ve veri tabanı işlemlerinin öğrenilmesi için geliştirilmiş temel masaüstü uygulama projesidir. Uygulamanın bilgisayar ortamında kurulumu için setup.exe oluşturulmuştur. Banka Masaüstü Uygulaması başlığında kurulum dosyalarına erişebilirsiniz.
+Staj sürecinde C#/.NET Framework ve veri tabanı işlemlerinin öğrenilmesi için geliştirilmiş temel masaüstü uygulama projesidir. Uygulamanın bilgisayar ortamında kurulumu için setup.exe oluşturulmuştur. Banka Masaüstü Uygulaması başlığında kurulum dosyalarına erişebilirsiniz.
 
 ## Kullanılan Teknolojiler
- * .NetFramework 4.6
+ * .NET Framework 4.6
  * MSSQL 2017
  
 ## Özellikler
