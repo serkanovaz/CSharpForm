@@ -1,11 +1,11 @@
-# CSharpForm
+# TB Bankacılık
  .NetFramework Masaüstü Uygulama
 
- ### Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
  * .NetFramework 4.6
  * MSSQL 2017
  
- ### Özellikler
+## Özellikler
  * Kullanıcı Bot Kontrol
  * Hesap Açma
  * Hesap Kapama
