@@ -1,2 +1,2 @@
 # CSharpForm
- .NetFramework masaüstü uygulama yeni başlayanlar için
+ .NetFramework Masaüstü Uygulama
