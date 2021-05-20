@@ -2,7 +2,7 @@
  .NetFramework Masaüstü Uygulama
  
 ## Özet
- Staj sürecinde C#/.NetFramework ve veri tabanı işlemlerinin öğrenilmesi için geliştirilmiş temel masaüstü uygulama projesidir.
+ Staj sürecinde C#/.NetFramework ve veri tabanı işlemlerinin öğrenilmesi için geliştirilmiş temel masaüstü uygulama projesidir. Uygulamanın bilgisayar ortamında kurulumu için setup.exe oluşturulmuştur.
 
 ## Kullanılan Teknolojiler
  * .NetFramework 4.6
