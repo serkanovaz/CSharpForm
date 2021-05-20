@@ -1,5 +1,8 @@
 # TB Bankacılık
  .NetFramework Masaüstü Uygulama
+ 
+## Özet
+ Staj sürecinde C#/.NetFramework ve veri tabanı işlemlerinin öğrenilmesi için geliştirilmiş temel masaüstü uygulama projesidir.
 
 ## Kullanılan Teknolojiler
  * .NetFramework 4.6
